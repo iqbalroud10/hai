@@ -12,7 +12,7 @@ export default function Home() {
             Untuk informasi sharing &amp; promo, join channel WhatsApp kami:
           </p>
           <a
-            href="https://whatsapp.com/channel/0029Vawy8F1DZ4LcWX5Oao1"
+            href="https://whatsapp.com/channel/0029Vawy8F1DZ4LcWX5Oao1G"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-full transition-colors duration-200"
